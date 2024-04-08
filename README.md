@@ -1,0 +1,1 @@
+Discord Selfbot (against TOS) for sniffing messages from a server to another. WIP
